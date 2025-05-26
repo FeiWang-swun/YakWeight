@@ -9,7 +9,7 @@ Install the required dependencies by running:
 ```bash
 pip install -r requirements.txt
 
-## 2. Data Preparation
+### 1. Environment Setup
 Download the dataset used in this project from Kaggle:
 https://www.kaggle.com/datasets/feiwangswun/yak-pose-datasets
 
