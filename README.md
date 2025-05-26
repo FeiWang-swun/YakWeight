@@ -4,12 +4,12 @@ This project provides tools for yak pose estimation and body weight prediction u
 
 ## Getting Started
 
-### 1. Environment Setup
+## 1. Environment Setup
 Install the required dependencies by running:
 ```bash
 pip install -r requirements.txt
 
-### 2. Data Preparation
+## 2. Data Preparation
 Download the dataset used in this project from Kaggle:
 https://www.kaggle.com/datasets/feiwangswun/yak-pose-datasets
 
